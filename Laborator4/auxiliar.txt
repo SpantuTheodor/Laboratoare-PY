@@ -1,0 +1,4 @@
+D:\[Faculty]\III1\[PY]\Laborator4\auxiliar.txt
+D:\[Faculty]\III1\[PY]\Laborator4\Problema1.py
+D:\[Faculty]\III1\[PY]\Laborator4\Problema2.py
+Bine
